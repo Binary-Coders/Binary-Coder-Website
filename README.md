@@ -48,7 +48,7 @@ Happy Submissions :slightly_smiling_face:
 
 <h1 align=center> Project Maintainer ⚡ </h1>
 <p align="center">
-  <a href="https://github.com/SauravMukherjee44"><img src="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/e2d7870b91f240964e9841a2a147aaf564b5fdb7/images/admin.jpg" width=150px height=150px /></a> 
+  <a href="https://github.com/Kumar-laxmi"><img src="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/e2d7870b91f240964e9841a2a147aaf564b5fdb7/images/admin.jpg" width=150px height=150px /></a> 
 	<p align="center">
 
 
@@ -82,7 +82,7 @@ If you want to contact me, you can reach me through below handles.
 	
  <div align="center">
       
-   <h1 align="center">CodeIN Community</h1>
+   <h1 align="center">Binary Coders Community</h1>
        <img width="10%" align="center"  src="#" >  <!--Enter Binary Coder image-->
  
 I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize Events on different technologies to help people to get started with these technologies.
