@@ -48,7 +48,7 @@ Happy Submissions :slightly_smiling_face:
 
 <h1 align=center> Project Maintainer ⚡ </h1>
 <p align="center">
-  <a href="https://github.com/Kumar-laxmi"><img src="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/e2d7870b91f240964e9841a2a147aaf564b5fdb7/images/admin.jpg" width=150px height=150px /></a> 
+  <a href="https://github.com/Kumar-laxmi"><img src="https://github.com/Binary-Coders/Binary-Coder-Website/blob/main/assets/img/People/Admin.JPG" width=150px height=150px /></a> 
 	<p align="center">
 
 
